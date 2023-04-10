@@ -1,0 +1,14 @@
+comment: "This issue is closed because it does not meet our issue template. Please read it."
+issueConfigs:
+- content:
+# Example 1: bug report
+  - "Describe the bug"
+  - "Steps to Reproduce"
+  - "Expected behavior"
+  - "Additional context"
+- content:
+# Example 2: feature request
+  - "Is your feature request related to a problem? Please describe."
+  - "Describe the solution you'd like"
+  - "Describe alternatives you've considered"
+  - "Additional context"
